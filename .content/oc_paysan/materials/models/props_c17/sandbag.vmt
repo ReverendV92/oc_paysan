@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_c17/sandbag"
+	$model 1
+      "$surfaceprop" "carpet"
+}

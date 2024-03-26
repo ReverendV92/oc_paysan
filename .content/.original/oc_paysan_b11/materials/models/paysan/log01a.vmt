@@ -1,0 +1,4 @@
+"vertexlitgeneric" {
+    "$basetexture" "models\paysan\log01a"
+    "$surfaceprop" "wood"
+}

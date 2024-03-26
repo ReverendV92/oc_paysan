@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+  "$baseTexture" "de_train/train_metalceiling_01"
+  "Proxies"
+  {
+       "TextureScroll"
+       {
+          "texturescrollvar" "$basetexturetransform"
+          "texturescrollrate" "0.1"
+          "texturescrollangle" "0"
+       }
+  }
+}

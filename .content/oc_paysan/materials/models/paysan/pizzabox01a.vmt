@@ -1,0 +1,9 @@
+"vertexlitgeneric" {
+    "$basetexture" "models\paysan\pizzabox01a"
+    "$bumpmap" "models\paysan\pizzabox01a_bump"
+    "$normalmapalphaenvmapmask" 1
+    "$envmapsaturation" 1.30000
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[ 1.0000 0.6353 0.1412 ]"
+    "$surfaceprop" "cardboard"
+}
